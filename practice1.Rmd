@@ -12,11 +12,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r pratice loading packages}
 library(tidyverse)
+library(readr)
 ```
 
 
 
 ```{r, echo=FALSE}
-
 ```
 
